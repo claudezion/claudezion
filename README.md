@@ -35,8 +35,8 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 - [Custom Music Player](#) - HTML, CSS, Python, Django, Bootstrap, SQLite
 
 ## 🚀 Skills
-- **Front-End**: HTML, CSS, JavaScript, React, Vue
-- **Back-End**: Python, Django, Flask, Java, PHP, Laravel, Express.js, Node.js
+- **Front-End**: HTML, CSS, JavaScript, TypeScript, React, Vue, Next
+- **Back-End**: Python, Django, Flask, FastApi, Java, PHP, Laravel, Express.js, Node.js
 - **Databases**: SQL, SQLite, PostgreSQL,MongoDB (Mongoose), DynamoDB
 - **Web Design**: Responsive Design, Bootstrap, GSAP (GreenSock Animation Platform)
 - **Mobile Development**: React Native
