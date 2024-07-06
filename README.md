@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 
 ## 📚 Education
 - Master of Science in Computer Science - University of Colorado Boulder
-- Pearson Higher National Diploma (HND) in Computing - ESOFT Metro Campus
+- Pearson Higher National Diploma (HND) in Computing - Pearson
 - CS50: Introduction to Computer Science - Harvard University
 - CS50's Introduction to Programming with Python - Harvard University
 - CS50’s Web Programming with Python and JavaScript - Harvard University
