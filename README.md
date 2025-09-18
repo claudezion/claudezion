@@ -5,6 +5,7 @@
 Currently Co-Founder and Executive Director at [Assetra](https://assetra.xyz), building scalable backend architectures and AI-powered solutions that serve thousands of users while maintaining near-zero operational costs.
 
 ## 🔭 What I'm working on
+- Making Apex Legends playable on Intel UHD Graphics through radical OS optimization
 - Fine-tuning large language models using LoRA techniques for production deployment
 - Building AI bots with local LLMs and RAG pipelines for enterprise applications
 - Developing scalable backend architectures that serve thousands of users cost-effectively
@@ -31,11 +32,15 @@ tools = ["Git", "Docker", "AWS", "React Native"]
 - Apple Silicon optimization for ML workloads
 
 ## 💡 Featured Projects
-### [LLM Fine-Tuning Pipeline](https://github.com/claudezion/LLM-Fine-Tuning-Pipeline.git)
-Fine-tuned Microsoft Phi-2 model using LoRA techniques, optimized for Apple Silicon M4 with comprehensive error handling for production deployment.
-
 ### [Holy Bible API](https://github.com/claudezion/DivineScript---Online-Holy-Bible.git)
 Multilingual API serving thousands of daily users, featuring custom scraping scripts and complex language encoding solutions.
+
+
+### [GameOS: Apex Legends Intel UHD Optimization Project](https://github.com/claudezion/LLM-Fine-Tuning-Pipeline.git)
+Making Apex Legends playable on Intel UHD Graphics through radical OS optimization.
+
+### [LLM Fine-Tuning Pipeline](https://github.com/claudezion/LLM-Fine-Tuning-Pipeline.git)
+Fine-tuned Microsoft Phi-2 model using LoRA techniques, optimized for Apple Silicon M4 with comprehensive error handling for production deployment.
 
 
 ## 📫 Let's Connect
