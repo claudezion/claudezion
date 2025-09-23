@@ -32,7 +32,7 @@ tools = ["Git", "Docker", "AWS", "React Native"]
 - Apple Silicon optimization for ML workloads
 
 ## 💡 Featured Projects
-### [Holy Bible API](https://github.com/claudezion/DivineScript---Online-Holy-Bible.git)
+### [Holy Bible API](https://github.com/claudezion/sinhala-holy-bible-api.git)
 Multilingual API serving thousands of daily users, featuring custom scraping scripts and complex language encoding solutions.
 
 
