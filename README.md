@@ -43,6 +43,10 @@ Making Apex Legends playable on Intel UHD Graphics through radical OS optimizati
 Fine-tuned Microsoft Phi-2 model using LoRA techniques, optimized for Apple Silicon M4 with comprehensive error handling for production deployment.
 
 
+### [NavigatorX ](https://github.com/claudezion/navigatorx.git)
+A lightweight, type-safe keyboard shortcut manager for web applications.
+
+
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudezion/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/claudezion)
